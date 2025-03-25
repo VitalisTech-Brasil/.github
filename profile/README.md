@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) à nossa organização! 👋  
 
-<p align="center">
+<p align="left">
   <img src="logo-vitalis-b&w.png" width="450px" height="250px">
 </p>  
 
