@@ -1,8 +1,8 @@
 # Olá, seja bem-vindo(a) à nossa organização! 👋  
 
-<p align="center">
-  <img src="logo-vitalis-b&w.png" width="450px" height="250px">
-</p>  
+<p style="text-align: center;">
+  <img src="logo-vitalis-bw.png" alt="Logo da VitalisTech" style="max-width: 100%; height: auto;">
+</p>
 
 ## Sobre a VitalisTech  
 
