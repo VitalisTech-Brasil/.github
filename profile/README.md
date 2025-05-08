@@ -1,6 +1,8 @@
 # Olá, seja bem-vindo(a) à nossa organização! 👋  
 
-![Logo da VitalisTech](https://raw.githubusercontent.com/VitalisTech-Brasil/.github/main/profile/logo-vitalis-bw.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VitalisTech-Brasil/.github/main/profile/logo-vitalis-bw.png" alt="Logo da VitalisTech" width="100%" style="max-width: 450px; height: auto;">
+</p>
 
 ## Sobre a VitalisTech  
 
